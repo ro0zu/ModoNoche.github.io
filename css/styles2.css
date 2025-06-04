@@ -21,9 +21,6 @@ body.dark-mode{
     background: url(../images/wolverine.gif) no-repeat center center fixed;
     background-size: cover;
     color: black;
-    & h1{
-      font-family: 'Wolf2';
-    }
 }
 
 h1{
