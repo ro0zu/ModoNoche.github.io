@@ -10,7 +10,7 @@
 body{
     margin: 0;
     font-family: Arial, sans-serif;
-    background: url(/images/deadpool.gif) no-repeat center center fixed;
+    background: url(../images/deadpool.gif) no-repeat center center fixed;
     background-size: cover;
     color: #eaff00;
     transition: 1s, color 0.5s;
@@ -18,7 +18,7 @@ body{
 }
 
 body.dark-mode{
-    background: url(/images/wolverine.gif) no-repeat center center fixed;
+    background: url(../images/wolverine.gif) no-repeat center center fixed;
     background-size: cover;
     color: black;
     & h1{
