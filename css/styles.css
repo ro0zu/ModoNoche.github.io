@@ -227,7 +227,7 @@ button:hover{
 }
 
 label{
-  transform: scale(5);
+  transform: scale(4);
 }
 
 @keyframes cloud-move {
